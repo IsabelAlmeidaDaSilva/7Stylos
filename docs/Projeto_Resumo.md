@@ -1,3 +1,6 @@
+
+----------------------------------------
+
 # 🛍️ 7Stylos – E-commerce
 
 Projeto de e-commerce desenvolvido com **React no frontend** e **Node.js + Express no backend**, utilizando **MySQL** como banco de dados e **Prisma ORM** para controle do banco via código.
@@ -7,6 +10,7 @@ Projeto de e-commerce desenvolvido com **React no frontend** e **Node.js + Expre
 ## 📌 Objetivo
 
 Criar uma loja virtual funcional, organizada e escalável, permitindo aprendizado prático de:
+
 - Frontend moderno
 - Backend com API REST
 - Banco de dados
@@ -19,7 +23,6 @@ Criar uma loja virtual funcional, organizada e escalável, permitindo aprendizad
 ├─ frontend/
 ├─ backend/
 └─ docs/
-
 
 ---
 
@@ -48,25 +51,24 @@ npm install
 npx prisma migrate dev
 npm run dev
 
----
-
-Frontend:
-
+### Frontend
+```bash
 cd frontend
 npm install
 npm run dev
 
----
+----------------------------------------
 
 📚 Documentação
 
-Toda a documentação está na pasta docs/.
+Toda a documentação do projeto está localizada na pasta:
 
----
+docs/
+
+----------------------------------------
 
 🚧 Status
 
 Projeto em desenvolvimento.
 
-
-
+----------------------------------------
